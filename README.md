@@ -1,3 +1,4 @@
+
 # CuteSenses
 
 CuteSenses is a boutique-style e-commerce storefront built with Python and Streamlit. The site showcases a curated collection of handmade and lifestyle products organized into categories such as Clothing, Crochet, Accessories, Coins, Bags, and Home Decor. It includes a branded storefront header, product cards, category navigation, and a shopping cart panel with quantity controls.
@@ -44,6 +45,12 @@ This project was developed as a school assignment to demonstrate a clean, user-f
    ```bash
    pip install streamlit
    ```
+
+## Live Demo
+
+You can view the deployed site here:
+
+https://cutesenses.streamlit.app/
 
 ## Usage
 
